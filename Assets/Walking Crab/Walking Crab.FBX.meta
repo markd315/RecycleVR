@@ -1,0 +1,359 @@
+fileFormatVersion: 2
+guid: d629750b629603f4aa7ecfe00d80dca0
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Arm01
+    100002: Bone03
+    100004: Bone08
+    100006: Bone09
+    100008: Bone13
+    100010: Bone15
+    100012: Bone20
+    100014: Bone23
+    100016: Bone26
+    100018: Bone29
+    100020: Bone32
+    100022: Bone_Head
+    100024: Bone_L_Clav
+    100026: Bone_L_Eye
+    100028: Bone_L_LArm
+    100030: Bone_L_LLeg1
+    100032: Bone_L_LLeg2
+    100034: Bone_L_LLeg3
+    100036: Bone_L_UArm
+    100038: Bone_L_ULeg1
+    100040: Bone_L_ULeg2
+    100042: Bone_L_ULeg3
+    100044: Bone_Neck
+    100046: Bone_R_Clav
+    100048: Bone_R_Eye
+    100050: Bone_R_LArm
+    100052: Bone_R_LLeg1
+    100054: Bone_R_LLeg2
+    100056: Bone_R_LLeg3
+    100058: Bone_R_UArm
+    100060: Bone_R_ULeg1
+    100062: Bone_R_ULeg2
+    100064: Bone_R_ULeg3
+    100066: Bone_Spine
+    100068: Character_Controller
+    100070: Dummy01
+    100072: Dummy02
+    100074: Dummy03
+    100076: Dummy04
+    100078: Dummy05
+    100080: Dummy06
+    100082: Dummy07
+    100084: Dummy08
+    100086: Dummy09
+    100088: Dummy10
+    100090: Dummy11
+    100092: Dummy12
+    100094: IK Chain01
+    100096: IK Chain02
+    100098: IK Chain03
+    100100: IK Chain04
+    100102: IK Chain05
+    100104: IK Chain06
+    100106: IK Chain07
+    100108: IK Chain08
+    100110: IK Chain09
+    100112: Left_Eye_Controller
+    100114: LeftArm_Controller
+    100116: LeftLeg_Controller1
+    100118: LeftLeg_Controller2
+    100120: LeftLeg_Controller3
+    100122: Neck_Controller
+    100124: Omni01
+    100126: Omni02
+    100128: Omni03
+    100130: Pelvis_Controller
+    100132: Right_Eye_Controller
+    100134: RightArm_Controller
+    100136: RightLeg1_Controller
+    100138: RightLeg2_Controller
+    100140: RightLeg3_Controller
+    100142: Sphere01
+    100144: Sphere02
+    100146: Sphere13
+    100148: //RootNode
+    400000: Arm01
+    400002: Bone03
+    400004: Bone08
+    400006: Bone09
+    400008: Bone13
+    400010: Bone15
+    400012: Bone20
+    400014: Bone23
+    400016: Bone26
+    400018: Bone29
+    400020: Bone32
+    400022: Bone_Head
+    400024: Bone_L_Clav
+    400026: Bone_L_Eye
+    400028: Bone_L_LArm
+    400030: Bone_L_LLeg1
+    400032: Bone_L_LLeg2
+    400034: Bone_L_LLeg3
+    400036: Bone_L_UArm
+    400038: Bone_L_ULeg1
+    400040: Bone_L_ULeg2
+    400042: Bone_L_ULeg3
+    400044: Bone_Neck
+    400046: Bone_R_Clav
+    400048: Bone_R_Eye
+    400050: Bone_R_LArm
+    400052: Bone_R_LLeg1
+    400054: Bone_R_LLeg2
+    400056: Bone_R_LLeg3
+    400058: Bone_R_UArm
+    400060: Bone_R_ULeg1
+    400062: Bone_R_ULeg2
+    400064: Bone_R_ULeg3
+    400066: Bone_Spine
+    400068: Character_Controller
+    400070: Dummy01
+    400072: Dummy02
+    400074: Dummy03
+    400076: Dummy04
+    400078: Dummy05
+    400080: Dummy06
+    400082: Dummy07
+    400084: Dummy08
+    400086: Dummy09
+    400088: Dummy10
+    400090: Dummy11
+    400092: Dummy12
+    400094: IK Chain01
+    400096: IK Chain02
+    400098: IK Chain03
+    400100: IK Chain04
+    400102: IK Chain05
+    400104: IK Chain06
+    400106: IK Chain07
+    400108: IK Chain08
+    400110: IK Chain09
+    400112: Left_Eye_Controller
+    400114: LeftArm_Controller
+    400116: LeftLeg_Controller1
+    400118: LeftLeg_Controller2
+    400120: LeftLeg_Controller3
+    400122: Neck_Controller
+    400124: Omni01
+    400126: Omni02
+    400128: Omni03
+    400130: Pelvis_Controller
+    400132: Right_Eye_Controller
+    400134: RightArm_Controller
+    400136: RightLeg1_Controller
+    400138: RightLeg2_Controller
+    400140: RightLeg3_Controller
+    400142: Sphere01
+    400144: Sphere02
+    400146: Sphere13
+    400148: //RootNode
+    2100000: 02 - Default
+    2100002: 03 - Default
+    2100004: 07 - Default
+    2100006: No Name
+    2100008: 08 - Default
+    2300000: Bone03
+    2300002: Bone08
+    2300004: Bone09
+    2300006: Bone13
+    2300008: Bone15
+    2300010: Bone20
+    2300012: Bone23
+    2300014: Bone26
+    2300016: Bone29
+    2300018: Bone32
+    2300020: Bone_Head
+    2300022: Bone_L_Clav
+    2300024: Bone_L_Eye
+    2300026: Bone_L_LArm
+    2300028: Bone_L_LLeg1
+    2300030: Bone_L_LLeg2
+    2300032: Bone_L_LLeg3
+    2300034: Bone_L_UArm
+    2300036: Bone_L_ULeg1
+    2300038: Bone_L_ULeg2
+    2300040: Bone_L_ULeg3
+    2300042: Bone_Neck
+    2300044: Bone_R_Clav
+    2300046: Bone_R_Eye
+    2300048: Bone_R_LArm
+    2300050: Bone_R_LLeg1
+    2300052: Bone_R_LLeg2
+    2300054: Bone_R_LLeg3
+    2300056: Bone_R_UArm
+    2300058: Bone_R_ULeg1
+    2300060: Bone_R_ULeg2
+    2300062: Bone_R_ULeg3
+    2300064: Bone_Spine
+    2300066: Character_Controller
+    2300068: Sphere13
+    3300000: Bone03
+    3300002: Bone08
+    3300004: Bone09
+    3300006: Bone13
+    3300008: Bone15
+    3300010: Bone20
+    3300012: Bone23
+    3300014: Bone26
+    3300016: Bone29
+    3300018: Bone32
+    3300020: Bone_Head
+    3300022: Bone_L_Clav
+    3300024: Bone_L_Eye
+    3300026: Bone_L_LArm
+    3300028: Bone_L_LLeg1
+    3300030: Bone_L_LLeg2
+    3300032: Bone_L_LLeg3
+    3300034: Bone_L_UArm
+    3300036: Bone_L_ULeg1
+    3300038: Bone_L_ULeg2
+    3300040: Bone_L_ULeg3
+    3300042: Bone_Neck
+    3300044: Bone_R_Clav
+    3300046: Bone_R_Eye
+    3300048: Bone_R_LArm
+    3300050: Bone_R_LLeg1
+    3300052: Bone_R_LLeg2
+    3300054: Bone_R_LLeg3
+    3300056: Bone_R_UArm
+    3300058: Bone_R_ULeg1
+    3300060: Bone_R_ULeg2
+    3300062: Bone_R_ULeg3
+    3300064: Bone_Spine
+    3300066: Character_Controller
+    3300068: Sphere13
+    4300000: Arm01
+    4300002: Sphere02
+    4300004: Sphere01
+    4300006: Character_Controller
+    4300008: Bone_L_ULeg2
+    4300010: Bone_L_LLeg2
+    4300012: Bone15
+    4300014: Bone_L_ULeg1
+    4300016: Bone_L_LLeg1
+    4300018: Bone32
+    4300020: Bone_L_ULeg3
+    4300022: Bone_L_LLeg3
+    4300024: Bone29
+    4300026: Bone_Spine
+    4300028: Bone09
+    4300030: Bone_L_Clav
+    4300032: Bone_L_UArm
+    4300034: Bone_L_LArm
+    4300036: Bone20
+    4300038: Bone_Neck
+    4300040: Bone_Head
+    4300042: Bone08
+    4300044: Bone_R_Clav
+    4300046: Bone_R_UArm
+    4300048: Bone_R_LArm
+    4300050: Bone13
+    4300052: Bone_R_ULeg3
+    4300054: Bone_R_LLeg3
+    4300056: Bone23
+    4300058: Bone_R_ULeg1
+    4300060: Bone_R_LLeg1
+    4300062: Bone26
+    4300064: Bone_R_ULeg2
+    4300066: Bone_R_LLeg2
+    4300068: Bone03
+    4300070: Bone_L_Eye
+    4300072: Bone_R_Eye
+    4300074: Sphere13
+    7400000: Take 001
+    9500000: //RootNode
+    10800000: Omni01
+    10800002: Omni02
+    10800004: Omni03
+    13700000: Arm01
+    13700002: Sphere01
+    13700004: Sphere02
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
