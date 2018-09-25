@@ -8,7 +8,7 @@ using System.Collections;
      public string NewLevel= "TrashScene";
      void Start()
      {
-         StartCoroutine(LoadLevelAfterDelay(delay));
+        StartCoroutine(LoadLevelAfterDelay(delay));
      }
  
      IEnumerator LoadLevelAfterDelay(float delay)
